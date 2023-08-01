@@ -1,0 +1,11 @@
+/.buildozer
+/.vscode
+/6soup.txt
+/__pycache__
+/bin
+/buildozer.spec
+/data
+/data.json
+/gitignore
+/main.py
+/venv
